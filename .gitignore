@@ -1,0 +1,7 @@
+# Generated cache files
+icon-theme.cache
+
+# Editor / OS junk
+*.swp
+*~
+.DS_Store
